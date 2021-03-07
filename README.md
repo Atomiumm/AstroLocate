@@ -1,0 +1,2 @@
+# AstroLocate
+Stellar coordinates conversion
